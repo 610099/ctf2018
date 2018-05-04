@@ -10,3 +10,8 @@
  ```
  binwalk carter.jpg
   ```
+3)
+  ```
+  hexdump  carter.jpg
+
+    ```
