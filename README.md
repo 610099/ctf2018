@@ -13,5 +13,4 @@
 3)
   ```
   hexdump  carter.jpg
-
-    ```
+  ```
