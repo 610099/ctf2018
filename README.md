@@ -15,8 +15,8 @@
   ```
   dd if=carter.jpg of=carter-1.jpg skip=140147 bs=1
   ```
-  4)
+  ![image](https://github.com/610099/ctf2018/blob/master/pic/carter-1.jpg)
    done
     
-    ![image](https://github.com/610099/ctf2018/blob/master/pic/carter-1.jpg)
+
 2.
