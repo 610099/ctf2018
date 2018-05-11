@@ -19,4 +19,17 @@
    done
     
 
-2.
+2.Secret@Scratch Dialga1234 - Johnny Boy
+
+1)
+```
+google Dialga1234(https://scratch.mit.edu/projects/108998724/)
+```
+2)
+```
+see and fine
+```
+3)
+```
+ABCTF{DoYouThinkISpentTooMuchTimeOnThis}
+```
