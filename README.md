@@ -12,5 +12,9 @@
   ```
 3)
   ```
-  hexdump  carter.jpg
+  dd if=carter.jpg of=carter-1.jpg skip=140147 bs=1
   ```
+  4)
+   done
+   
+2.
