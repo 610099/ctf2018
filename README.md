@@ -70,3 +70,8 @@ print "Solved ! m = %d" % m
 
 
 # DVWA
+
+1) #Command Injection
+
+
+
